@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+- name: Profile Readme Stats
+  uses: teoxoy/profile-readme-stats@v1
+
 <!--
 **xybercommander/xybercommander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
