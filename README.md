@@ -1,17 +1,14 @@
 ### Hi there 👋
 
-- name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1
 
-<!--
-**xybercommander/xybercommander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**xybercommander/xybercommander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Web Development :)
+- 👯 I’m looking to collaborate on Mobile And Web Dev Community
+- 💬 Ask me about my Favourite plugins!
+- 📫 How to reach me: 9830568066
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: It took less codes to send a man to space than to run a smartphone!
+
+
