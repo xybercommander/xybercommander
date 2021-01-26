@@ -9,7 +9,7 @@
 - 💬 Ask me about my Favourite plugins!
 - 📫 How to reach me: 9830568066
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: It took less codes to send a man to space than to run a smartphone!
+- ⚡ Fun fact: It took lesser lines of code to send a man to space than to run a smartphone!
 
 [![Xyber's github stats](https://github-readme-stats.vercel.app/api?username=xybercommander&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
