@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Web Development :)
 - 👯 I’m looking to collaborate on Mobile And Web Dev Community
-- 💬 Ask me about my Favourite plugins!
+- 💬 Ask me about my anything Web Dev Related
 - 📫 How to reach me: 9830568066
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: It took lesser lines of code to send a man to space than to run a smartphone!
