@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Web Development :)
-<p align="right"><img src="https://i.imgur.com/umyYjo0.gif"></p>
+<p align="right"><img src="https://i.imgur.com/umyYjo0.gif" width="800" height="500"></p>
 - 💬 Ask me about my anything Web Dev Related
 - 📫 How to reach me: 9830568066
 - 😄 Pronouns: He/His
