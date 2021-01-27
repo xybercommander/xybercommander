@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Web Development :)
-- 👯 I’m looking to collaborate on Mobile And Web Dev Community
+<p align="right"><img src="https://i.imgur.com/umyYjo0.gif"></p>
 - 💬 Ask me about my anything Web Dev Related
 - 📫 How to reach me: 9830568066
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: It took lesser lines of code to send a man to space than to run a smartphone!
+- ⚡ Fun fact: It took lesser lines of code<br> to send a man to space than to run a smartphone!
 
 [![Xyber's github stats](https://github-readme-stats.vercel.app/api?username=xybercommander&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
