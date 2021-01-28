@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" height="30" width="30">, I'm Samrat Mukherjee (Xybercommander)</h1>
 <h3 align="center">A passionate full stack developer cum CS undergrad from India</h3>
-<p align="center"><img src="https://i.imgur.com/umyYjo0.gif"></p>
+<!--<p align="center"><img src="https://i.imgur.com/umyYjo0.gif"></p>-->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xybercommander" alt="xybercommander" /></a> </p>
 
