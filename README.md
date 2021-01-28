@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/samratsphs" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="samratsphs" height="30" width="40" /></a>
+<a href="https://twitter.com/samratsphs" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1611823065~hmac=e2bcc719e5c53868fc4347245dfe4951" alt="samratsphs" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/samratmukherjee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samratmukherjee" height="30" width="40" /></a>
 <a href="https://instagram.com/_some_rat_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_some_rat_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/xyber1004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="xyber1004" height="30" width="40" /></a>
