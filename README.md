@@ -3,7 +3,7 @@
 <p align="center"><img src="https://i.imgur.com/umyYjo0.gif"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xybercommander&label=Profile%20views&color=0e75b6&style=flat" alt="xybercommander" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xybercommander" alt="xybercommander" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xybercommander" alt="xybercommander" /></a> </p>
 
 - 🌱 I’m currently learning **React JS, Flutter, React Native**
 
