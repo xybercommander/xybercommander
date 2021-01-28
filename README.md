@@ -29,6 +29,6 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xybercommander&show_icons=true&locale=en&theme=dracula" alt="xybercommander" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xybercommander&theme=dracula" alt="xybercommander" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xybercommander&theme=dracula" alt="xybercommander" /></p>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xybercommander&show_icons=true&locale=en&layout=compact&theme=dracula" alt="xybercommander" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xybercommander&show_icons=true&locale=en&layout=compact&theme=dracula" alt="xybercommander" /></p>
