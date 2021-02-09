@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samrat Mukherjee (Xybercommander)</h1>
-<h3 align="center">A passionate full stack developer cum CS undergrad from India</h3>
+<h3 align="center">A passionate full stack developer/CS undergrad from India</h3>
 <!--<p align="center"><img src="https://i.imgur.com/umyYjo0.gif"></p>-->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xybercommander" alt="xybercommander" /></a> </p>
