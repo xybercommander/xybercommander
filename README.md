@@ -1,5 +1,5 @@
 <img src="samrat_art.jpg">
-<h1 align="center">Hi 👋, I'm Samrat Mukherjee</h1>
+<h1 align="center">Hi 👋, I'm Samrat Mukherjee (XyberCommander)</h1>
 <h3 align="center">A passionate full stack developer/CS undergrad from India</h3>
 <!--<p align="center"><img src="https://i.imgur.com/umyYjo0.gif"></p>-->
 
