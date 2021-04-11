@@ -17,12 +17,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/samratsphs" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/733/733579.svg?token=exp=1611823065~hmac=e2bcc719e5c53868fc4347245dfe4951" alt="samratsphs" height="30" width="30" />&nbsp;</a>
-<a href="https://linkedin.com/in/samratmukherjee" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1611823175~hmac=9f9f5851b3ef49f1faa6ce64e73c0dc8" alt="samratmukherjee" height="30" width="30" />&nbsp;</a>
-<a href="https://instagram.com/_some_rat_" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1611823065~hmac=7c1d2984cf22fdf44bce5c2ace4018d5" alt="_some_rat_" height="30" width="30" />&nbsp;</a>
-<a href="https://www.codechef.com/users/xyber1004" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="xyber1004" height="30" width="30" />&nbsp;</a>
-<a href="https://discord.gg/Xyber#3963" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111370.svg?token=exp=1611823204~hmac=f77e708eea1360fc584d395b3b40d37f" alt="Xyber#3963" height="30" width="30" />&nbsp;</a>
-<a href="https://codeforces.com/profile/samrat19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="samrat19" height="30" width="40" /></a>
+<ul>
+  <a href="https://twitter.com/samratsphs" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145812.svg?token=exp=1618126099~hmac=f50d2f39794919a1e0d527f55edfacde" alt="samratsphs" height="30" width="30" />&nbsp;</a>
+  <a href="https://linkedin.com/in/samratmukherjee" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/145/145807.svg?token=exp=1618126166~hmac=aed45d9c95813be5d34acacfe7bec374" alt="samratmukherjee" height="30" width="30" />&nbsp;</a>
+  <a href="https://instagram.com/_some_rat_" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/355/355975.svg?token=exp=1618126191~hmac=441a1dc59ca6886e6c5379da3035d9d6" alt="_some_rat_" height="30" width="30" />&nbsp;</a>
+  <a href="https://www.codechef.com/users/xyber1004" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" alt="xyber1004" height="30" width="30" />&nbsp;</a>
+  <a href="https://discord.gg/Xyber#3963" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/906/906361.svg?token=exp=1618126255~hmac=9c79e860ba0eeca9951b8a80cae75f0e" alt="Xyber#3963" height="30" width="30" />&nbsp;</a>
+  <a href="https://codeforces.com/profile/samrat19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="samrat19" height="30" width="40" /></a>
+</ul>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
