@@ -1,18 +1,9 @@
+<img src="samrat_art.jpg">
 <h1 align="center">Hi 👋, I'm Samrat Mukherjee</h1>
 <h3 align="center">A passionate full stack developer/CS undergrad from India</h3>
 <!--<p align="center"><img src="https://i.imgur.com/umyYjo0.gif"></p>-->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xybercommander" alt="xybercommander" /></a> </p>
-
-<code>
-  <br>  __ __  __ __  ____     ___  ____          __   ___   ___ ___  ___ ___   ____  ____   ___      ___  ____ <br> 
-  <br> |  |  ||  |  ||    \   /  _]|    \        /  ] /   \ |   |   ||   |   | /    ||    \ |   \    /  _]|    \ <br>
-  <br> |  |  ||  |  ||  o  ) /  [_ |  D  )      /  / |     || _   _ || _   _ ||  o  ||  _  ||    \  /  [_ |  D  ) <br>
-  <br> |_   _||  ~  ||     ||    _]|    /      /  /  |  O  ||  \_/  ||  \_/  ||     ||  |  ||  D  ||    _]|    / <br>
-  <br> |     ||___, ||  O  ||   [_ |    \     /   \_ |     ||   |   ||   |   ||  _  ||  |  ||     ||   [_ |    \ <br>
-  <br> |  |  ||     ||     ||     ||  .  \    \     ||     ||   |   ||   |   ||  |  ||  |  ||     ||     ||  .  \ <br>
-  <br> |__|__||____/ |_____||_____||__|\_|     \____| \___/ |___|___||___|___||__|__||__|__||_____||_____||__|\_| <br>
-</code>    
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xybercommander" alt="xybercommander" /></a> </p>   
 
 - 🌱 I’m currently learning **MERN and Flutter**
 
