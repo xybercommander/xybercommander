@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **samratmukherjee.sps@gmail.com**
 
-- 📄 Know about my experiences [https://docdro.id/d9QPssK](https://docdro.id/d9QPssK)
+- 📄 Download my [resume](https://drive.google.com/file/d/1EOaVIVwq1ibZe8YqoHepbmViuQJglYHV/view?usp=sharing)
 
 - ⚡ Fun fact **It took lesser lines of code to send a rocket to space than to run a smartphone**
 
